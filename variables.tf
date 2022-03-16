@@ -8,8 +8,8 @@ variable "aws_region" {
 variable "target" {
   type = map(string)
   default = {
-    target01 = "jmanzurst@gmail.com",
-    target02 = "jhonnathandk@gmail.com"
+    target01 = "example_01@mail.com",
+    target02 = "example_02@mail.com"
     }
 }
 
