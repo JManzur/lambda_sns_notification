@@ -1,4 +1,4 @@
-/* IAM Role: Allow Lambda to perform StartOutboundVoiceContact operations on Amazon Connect, send Logs to CloudWatch and Publish on the SNS Topic */
+/* IAM Role: Allow Lambda to perform Publish operations on SNS and send Logs to CloudWatch. */
 
 data "aws_iam_policy_document" "policy_source" {
   statement {

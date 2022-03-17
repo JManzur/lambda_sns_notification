@@ -1,4 +1,4 @@
-/* StartOutboundVoiceContact Lambda */
+/* Lambda Function with SNS Notification */
 
 # Zip the lambda code
 data "archive_file" "init" {
