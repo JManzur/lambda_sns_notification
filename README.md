@@ -36,12 +36,12 @@ terraform apply
 
 ---- 
 
-Each email subscriber will receive a "Subscription Confirmation" link via email. 
+Each email subscriber will receive a subscription confirmation link via email. 
 
->💡 In order to receive emails from the lambda function, they must click on that confirmation link.
 
 ![App Screenshot](images/sns_subscription.png)
 
+>💡 In order to receive emails from the lambda function, they must click on that confirmation link.
 ## Author:
 
 - [@JManzur](https://jmanzur.com)
