@@ -2,7 +2,7 @@
 
 This terraform manifest is intended to be used as a canvas to implement  lambda functions with error handling and email notifications.
 
-> This is just a blank canvas; the lambda does not execute any real tasks.
+> 👉🏼 This is just a blank canvas; the lambda does not execute any real tasks.
 
 ## Resources deployed by this manifest:
 
@@ -37,7 +37,6 @@ terraform apply
 ---- 
 
 Each email subscriber will receive a subscription confirmation link via email. 
-
 
 ![App Screenshot](images/sns_subscription.png)
 
