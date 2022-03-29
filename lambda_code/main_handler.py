@@ -14,7 +14,7 @@ def lambda_handler(event, context):
         ##########################
         ## Your code goes here! ##
         ##########################
-        logger.info("StartOutboundCall - Request OK")
+        logger.info("Some Info - OK")
         response = "Some response"
         return response
     
